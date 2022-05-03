@@ -1,0 +1,19 @@
+{
+  "name": "apirest",
+  "version": "1.0.0",
+  "description": "curso practico de consumo js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgalejandra/apirest.git"
+  },
+  "author": "Alejandra Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgalejandra/apirest/issues"
+  },
+  "homepage": "https://github.com/mgalejandra/apirest#readme"
+}
